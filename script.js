@@ -7,6 +7,7 @@ const TRANSLATIONS = {
     nav_mission: "Mission",
     nav_about: "About Us",
     footer_orders: "Direct Orders:",
+    footer_terms: "Terms & Conditions",
 
     // Home Page
     hero_title: "Pure and Natural",
@@ -102,6 +103,19 @@ const TRANSLATIONS = {
     about_wa_desc: "Whether you need custom grain quantities, wholesale partnerships, or product details, our team is ready to help you directly on WhatsApp.",
     about_wa_btn: "Chat with Us on WhatsApp",
 
+    // Terms & Conditions Page
+    terms_page_title: "Terms & Conditions",
+    terms_1_title: "1. Website Purpose & Order Inquiries",
+    terms_1_desc: "This website serves as a product catalog and inquiry platform for Nyirefami Limited. Submitting items through the Order Cart generates a WhatsApp order inquiry and does not constitute a binding contract or final purchase until our sales team confirms product availability, current pricing, and delivery arrangements.",
+    terms_2_title: "2. Pricing & Payment Confirmation",
+    terms_2_desc: "Prices for retail and wholesale cereal flour packages are quoted directly via WhatsApp, phone, or official invoice upon receiving your inquiry. Payment terms (such as mobile money, bank transfer, or cash on delivery within Arusha) are agreed upon prior to order dispatch.",
+    terms_3_title: "3. Delivery & Regional Dispatch",
+    terms_3_desc: "Local deliveries within Arusha and upcountry bus/cargo dispatches across Tanzania are scheduled once payment or order confirmation is completed. Delivery timelines and transport charges depend on destination and order volume.",
+    terms_4_title: "4. Product Quality, Storage & Claims",
+    terms_4_desc: "All Nyirefami cereal flours are milled, cleaned, and packaged under strict hygiene standards. Customers should inspect packages upon receipt and store flours in a cool, dry place. Any damaged packaging or quality concern must be reported within 48 hours of delivery with photos and batch details.",
+    terms_5_title: "5. Customer Privacy & Data Use",
+    terms_5_desc: "Information entered in the Order Cart form (your name, phone number, and delivery location) is stored locally on your device during browsing and sent directly to Nyirefami Limited via WhatsApp solely to process your inquiry and coordinate delivery. We do not sell or share customer contact details with third parties.",
+
     // Dynamic WhatsApp Greeting
     wa_greeting: "Hello Nyirefami Team. I have a question regarding your products."
   },
@@ -112,6 +126,7 @@ const TRANSLATIONS = {
     nav_mission: "Dhamira",
     nav_about: "Kuhusu Sisi",
     footer_orders: "Oda za Moja kwa Moja:",
+    footer_terms: "Vigezo na Masharti",
 
     // Home Page
     hero_title: "Halisi na Asilia",
@@ -206,6 +221,19 @@ const TRANSLATIONS = {
     about_wa_title: "Una Swali au Hitaji Maalum?",
     about_wa_desc: "Iwe unahitaji kiasi kikubwa cha nafaka, ushirikiano wa kibiashara, au maelezo ya bidhaa, timu yetu iko tayari kukuhudumia moja kwa moja kupitia WhatsApp.",
     about_wa_btn: "Zungumza Nasi Kupitia WhatsApp",
+
+    // Terms & Conditions Page
+    terms_page_title: "Vigezo na Masharti",
+    terms_1_title: "1. Madhumuni ya Tovuti na Maombi ya Oda",
+    terms_1_desc: "Tovuti hii inatumika kama orodha ya bidhaa na jukwaa la kutuma maombi ya oda kwa Nyirefami Limited. Kutuma bidhaa kupitia Kikapu cha Oda hufungua ujumbe wa WhatsApp na si mkataba wa mwisho wa mauzo hadi timu yetu ya mauzo itakapothibitisha upatikanaji wa bidhaa, bei ya sasa, na utaratibu wa usafirishaji.",
+    terms_2_title: "2. Bei na Uthibitisho wa Malipo",
+    terms_2_desc: "Bei za rejareja na jumla kwa mifuko ya unga wa nafaka hutolewa moja kwa moja kupitia WhatsApp, simu, au ankara rasmi baada ya kupokea ombi lako. Njia za malipo (kama malipo ya simu, benki, au malipo wakati wa kupokea mzigo ndani ya Arusha) hukubaliwa kabla ya mzigo kutumwa.",
+    terms_3_title: "3. Usafirishaji Ndani ya Arusha na Mikoani",
+    terms_3_desc: "Usafirishaji wa ndani ya Arusha na utumaji wa mizigo mikoani kote Tanzania hupangwa mara baada ya uthibitisho wa oda au malipo kukamilika. Muda na gharama za usafirishaji hutegemea eneo unalopokelea mzigo na kiasi cha oda.",
+    terms_4_title: "4. Ubora wa Bidhaa, Uhifadhi na Malalamiko",
+    terms_4_desc: "Unga wote wa nafaka wa Nyirefami unasagwa, kusafishwa, na kufungashwa kwa viwango vya juu vya usafi. Wateja wanashauriwa kukagua mifuko wanapopokea na kuihifadhi mahali pakavu na penye ubaridi. Tatizo lolote la ufungashaji au ubora linapaswa kuripotiwa ndani ya saa 48 baada ya kupokea mzigo.",
+    terms_5_title: "5. Faragha ya Mteja na Matumizi ya Taarifa",
+    terms_5_desc: "Taarifa unazojaza kwenye fomu ya Kikapu cha Oda (jina lako, namba ya simu, na mahali pa kuletewa) zinatumwa moja kwa moja kwa Nyirefami Limited kupitia WhatsApp kwa ajili ya kushughulikia oda yako na usafirishaji pekee. Hatuuzi wala kusambaza taarifa za wateja kwa mtu yeyote wa tatu.",
 
     // Dynamic WhatsApp Greeting
     wa_greeting: "Habari za Nyirefami Team. Nina swali kuhusu bidhaa zenu."
