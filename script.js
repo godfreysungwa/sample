@@ -80,7 +80,7 @@ const TRANSLATIONS = {
     btn_submit_wa: "💬 Submit Inquiry via WhatsApp",
 
     // Mission Page
-    mission_page_title: "Our Mission & Core Values",
+    mission_page_title: "Our Mission & Guidance",
     mission_core_title: "Our Core Mission",
     mission_core_desc: "To process, mill, and package premium, stone-free cereal flours that provide wholesome nutrition to families across Tanzania and beyond, while maintaining uncompromising standards of hygiene and customer trust.",
     mission_vision_title: "Our Vision",
